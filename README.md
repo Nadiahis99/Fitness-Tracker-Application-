@@ -48,7 +48,6 @@ A **Java-based fitness tracking application** that helps users manage workouts, 
 
 
 
-   🤝 Contribution
 Contributions are welcome! Fork the repo and submit pull requests.
 
 👩‍💻 Author
