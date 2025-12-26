@@ -29,6 +29,17 @@ A **Java-based fitness tracking application** that helps users manage workouts, 
 
 ---
 
+
+---
+
+## 💻 Getting Started
+
+### Prerequisites
+
+- Java JDK 8 or higher
+- Maven or Gradle (optional)
+- IDE like IntelliJ IDEA or Eclipse
+
 ### How to Run
 
 1. Clone the repository:
@@ -36,6 +47,9 @@ A **Java-based fitness tracking application** that helps users manage workouts, 
    git clone https://github.com/Nadiahis99/Fitness-Tracker-Application-.git
 
 
-   🤝 ###Contribution
 
-**Contributions are welcome! Fork the repo and submit pull requests.
+   🤝 Contribution
+Contributions are welcome! Fork the repo and submit pull requests.
+
+👩‍💻 Author
+Nadia Hisham
